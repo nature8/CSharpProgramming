@@ -8,7 +8,7 @@
         Console.WriteLine("Servicing Savings Account:");
         AccountManagement.ServiceAccount(savings);
 
-        Console.WriteLine("\nServicing Current Account:");
+        Console.WriteLine("Servicing Current Account:");
         AccountManagement.ServiceAccount(current);
     }
 }
