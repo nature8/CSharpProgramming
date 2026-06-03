@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New Volume2\\C#Practice\\DatatypeProject\\DatatypeProject.csproj": {}
+    "D:\\New Volume2\\CSharpProgramming\\C#Practice\\DatatypeProject\\DatatypeProject.csproj": {}
   },
   "projects": {
-    "D:\\New Volume2\\C#Practice\\DatatypeProject\\DatatypeProject.csproj": {
+    "D:\\New Volume2\\CSharpProgramming\\C#Practice\\DatatypeProject\\DatatypeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Volume2\\C#Practice\\DatatypeProject\\DatatypeProject.csproj",
+        "projectUniqueName": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\DatatypeProject\\DatatypeProject.csproj",
         "projectName": "DatatypeProject",
-        "projectPath": "D:\\New Volume2\\C#Practice\\DatatypeProject\\DatatypeProject.csproj",
+        "projectPath": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\DatatypeProject\\DatatypeProject.csproj",
         "packagesPath": "C:\\Users\\M S P\\.nuget\\packages\\",
-        "outputPath": "D:\\New Volume2\\C#Practice\\DatatypeProject\\obj\\",
+        "outputPath": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\DatatypeProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M S P\\AppData\\Roaming\\NuGet\\NuGet.Config"
