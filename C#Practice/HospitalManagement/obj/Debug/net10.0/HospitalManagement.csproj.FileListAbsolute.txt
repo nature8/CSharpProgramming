@@ -1,0 +1,15 @@
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\bin\Debug\net10.0\HospitalManagement.exe
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\bin\Debug\net10.0\HospitalManagement.deps.json
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\bin\Debug\net10.0\HospitalManagement.runtimeconfig.json
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\bin\Debug\net10.0\HospitalManagement.dll
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\bin\Debug\net10.0\HospitalManagement.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\HospitalManagement.AssemblyInfoInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\HospitalManagement.AssemblyInfo.cs
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\HospitalManagement.csproj.CoreCompileInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\HospitalManagement.sourcelink.json
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\HospitalManagement.dll
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\refint\HospitalManagement.dll
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\HospitalManagement.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\HospitalManagement.genruntimeconfig.cache
+D:\New Volume2\CSharpProgramming\C#Practice\HospitalManagement\obj\Debug\net10.0\ref\HospitalManagement.dll
