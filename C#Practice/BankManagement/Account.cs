@@ -9,7 +9,6 @@ abstract class Account
         return balance;
     }
     
-
     //Deposit
     public void Deposit(double amount)
     {
