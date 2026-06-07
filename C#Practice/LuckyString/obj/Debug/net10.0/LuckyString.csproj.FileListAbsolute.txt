@@ -1,0 +1,15 @@
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\bin\Debug\net10.0\LuckyString.exe
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\bin\Debug\net10.0\LuckyString.deps.json
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\bin\Debug\net10.0\LuckyString.runtimeconfig.json
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\bin\Debug\net10.0\LuckyString.dll
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\bin\Debug\net10.0\LuckyString.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\LuckyString.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfoInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfo.cs
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\LuckyString.csproj.CoreCompileInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\LuckyString.sourcelink.json
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\LuckyString.dll
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\refint\LuckyString.dll
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\LuckyString.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\LuckyString.genruntimeconfig.cache
+D:\New Volume2\CSharpProgramming\C#Practice\LuckyString\obj\Debug\net10.0\ref\LuckyString.dll

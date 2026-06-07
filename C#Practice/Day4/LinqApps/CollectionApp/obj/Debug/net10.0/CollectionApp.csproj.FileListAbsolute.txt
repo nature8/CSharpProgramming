@@ -1,0 +1,15 @@
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\bin\Debug\net10.0\CollectionApp.exe
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\bin\Debug\net10.0\CollectionApp.deps.json
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\bin\Debug\net10.0\CollectionApp.runtimeconfig.json
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\bin\Debug\net10.0\CollectionApp.dll
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\bin\Debug\net10.0\CollectionApp.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\CollectionApp.AssemblyInfoInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\CollectionApp.AssemblyInfo.cs
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\CollectionApp.csproj.CoreCompileInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\CollectionApp.sourcelink.json
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\CollectionApp.dll
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\refint\CollectionApp.dll
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\CollectionApp.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\CollectionApp.genruntimeconfig.cache
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\CollectionApp\obj\Debug\net10.0\ref\CollectionApp.dll

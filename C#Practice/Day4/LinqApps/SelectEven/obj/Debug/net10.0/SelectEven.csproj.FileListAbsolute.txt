@@ -1,0 +1,15 @@
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\bin\Debug\net10.0\SelectEven.exe
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\bin\Debug\net10.0\SelectEven.deps.json
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\bin\Debug\net10.0\SelectEven.runtimeconfig.json
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\bin\Debug\net10.0\SelectEven.dll
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\bin\Debug\net10.0\SelectEven.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\SelectEven.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\SelectEven.AssemblyInfoInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\SelectEven.AssemblyInfo.cs
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\SelectEven.csproj.CoreCompileInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\SelectEven.sourcelink.json
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\SelectEven.dll
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\refint\SelectEven.dll
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\SelectEven.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\SelectEven.genruntimeconfig.cache
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\SelectEven\obj\Debug\net10.0\ref\SelectEven.dll

@@ -1,0 +1,15 @@
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\bin\Debug\net10.0\ArraysApp.exe
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\bin\Debug\net10.0\ArraysApp.deps.json
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\bin\Debug\net10.0\ArraysApp.runtimeconfig.json
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\bin\Debug\net10.0\ArraysApp.dll
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\bin\Debug\net10.0\ArraysApp.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\ArraysApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\ArraysApp.AssemblyInfoInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\ArraysApp.AssemblyInfo.cs
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\ArraysApp.csproj.CoreCompileInputs.cache
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\ArraysApp.sourcelink.json
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\ArraysApp.dll
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\refint\ArraysApp.dll
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\ArraysApp.pdb
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\ArraysApp.genruntimeconfig.cache
+D:\New Volume2\CSharpProgramming\C#Practice\Day4\LinqApps\ArraysApp\obj\Debug\net10.0\ref\ArraysApp.dll
