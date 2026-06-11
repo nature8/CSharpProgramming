@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\migrations\\20260611114918_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\migrations\\20260611114918_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|c:\\users\\m s p\\source\\repos\\employeeleavemanagement\\employeeleavemanagement\\employeeleavemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5410129A-0D30-98CF-9393-A57A0A8AC507}|EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj|solutionrelative:employeeleavemanagement\\employeeleavemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T12:12:12.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:59:04.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:56:48.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:56:13.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:54:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:34:00.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:01:18.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:54:08.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260611114918_m1.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Migrations\\20260611114918_m1.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Migrations\\20260611114918_m1.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Migrations\\20260611114918_m1.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Migrations\\20260611114918_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:49:18.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:33:16.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:31:18.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeLeaveManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:34:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeLeaveManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T10:32:14.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeLeaveManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
+              "RelativeDocumentMoniker": "EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
+              "RelativeToolTip": "EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T10:30:47.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

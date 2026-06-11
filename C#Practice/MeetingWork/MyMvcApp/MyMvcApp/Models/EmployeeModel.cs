@@ -8,7 +8,7 @@ namespace MyMvcApp.Models{
     public class EmployeeModel {
 
     //[Key]
-
+        [Key]
         public int EmployeeModelId{get;set;}
 
         public string EName{get;set;} = string.Empty;

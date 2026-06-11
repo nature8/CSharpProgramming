@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Controllers\\EmployeeModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\Controllers\\EmployeeModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Migrations\\20260610061642_m1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\Migrations\\20260610061642_m1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Migrations\\20260610061642_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\Migrations\\20260610061642_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Migrations\\EmployeeDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\Migrations\\EmployeeDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\MyMvcApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\MyMvcApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyMvcApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyMvcApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyMvcApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T06:11:59.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260610061642_m1.Designer.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Migrations\\20260610061642_m1.Designer.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Migrations\\20260610061642_m1.Designer.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Migrations\\20260610061642_m1.Designer.cs",
+              "RelativeToolTip": "MyMvcApp\\Migrations\\20260610061642_m1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:19:26.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260610061642_m1.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Migrations\\20260610061642_m1.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Migrations\\20260610061642_m1.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Migrations\\20260610061642_m1.cs",
+              "RelativeToolTip": "MyMvcApp\\Migrations\\20260610061642_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:19:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Migrations\\EmployeeDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Migrations\\EmployeeDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Migrations\\EmployeeDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MyMvcApp\\Migrations\\EmployeeDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:19:14.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyMvcApp\\appsettings.Development.json",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\appsettings.Development.json",
+              "RelativeToolTip": "MyMvcApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T04:19:04.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeModelsController.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Controllers\\EmployeeModelsController.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Controllers\\EmployeeModelsController.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Controllers\\EmployeeModelsController.cs",
+              "RelativeToolTip": "MyMvcApp\\Controllers\\EmployeeModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:17:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyMvcApp.csproj",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\MyMvcApp.csproj",
+              "RelativeDocumentMoniker": "MyMvcApp\\MyMvcApp.csproj",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\MyMvcApp.csproj",
+              "RelativeToolTip": "MyMvcApp\\MyMvcApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T04:19:02.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyMvcApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:18:05.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyMvcApp\\appsettings.json",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\appsettings.json",
+              "RelativeToolTip": "MyMvcApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T04:17:54.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyMvcApp\\Program.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\MeetingWork\\MyMvcApp\\MyMvcApp\\Program.cs",
+              "RelativeToolTip": "MyMvcApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:17:25.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
