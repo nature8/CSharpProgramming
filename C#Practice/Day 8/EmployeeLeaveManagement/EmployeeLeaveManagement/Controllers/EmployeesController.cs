@@ -1,5 +1,6 @@
 ﻿using EmployeeLeaveManagement.Models;
 using Microsoft.AspNetCore.Mvc;
+using EmployeeLeaveManagement.Services;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -21,13 +22,24 @@ public class EmployeesController : ControllerBase
         return Ok(employees);
     }
 
+    //[HttpPost]
+    //public async Task<IActionResult> CreateEmployee(Employee employee)
+    //{
+    //    if (!ModelState.IsValid)
+    //        return BadRequest(ModelState);
+
+    //    return Ok();
+    //}
+
     [HttpPost]
     public async Task<IActionResult> CreateEmployee(Employee employee)
     {
         if (!ModelState.IsValid)
             return BadRequest(ModelState);
 
-        return Ok();
+        await _service.AddEmployee(employee);
+
+        return Ok("Employee Added");
     }
 
 }

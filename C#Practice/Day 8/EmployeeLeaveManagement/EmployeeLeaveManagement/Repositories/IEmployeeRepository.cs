@@ -1,17 +1,16 @@
 ﻿using EmployeeLeaveManagement.Models;
 
-namespace EmployeeLeaveManagement.Repositories
+namespace EmployeeLeaveManagement.Repositories;
+
+public interface IEmployeeRepository
 {
-    public interface IEmployeeRepository
-    {
-        Task<List<Employee>> GetAllAsync();
+    Task<List<Employee>> GetAllAsync();
 
-        Task<Employee> GetByIdAsync(int id);
+    Task<Employee?> GetByIdAsync(int id);
 
-        Task AddAsync(Employee employee);
+    Task AddAsync(Employee employee);
 
-        Task UpdateAsync(Employee employee);
+    Task UpdateAsync(Employee employee);
 
-        Task DeleteAsync(int id);
-    }
+    Task DeleteAsync(int id);
 }

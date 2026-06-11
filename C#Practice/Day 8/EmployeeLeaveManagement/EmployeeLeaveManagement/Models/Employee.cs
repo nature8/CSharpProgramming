@@ -20,4 +20,12 @@ public class Employee
 
     [Required]
     public string Department { get; set; } = string.Empty;
+
+    
+    public DateTime JoinDate
+    { get; set; }
+
+    public ICollection<LeaveRequest>?
+    LeaveRequests
+    { get; set; }
 }
