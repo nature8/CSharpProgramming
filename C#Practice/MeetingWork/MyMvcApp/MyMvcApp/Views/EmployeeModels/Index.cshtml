@@ -1,0 +1,153 @@
+@* 
+@model IEnumerable<MyMvcApp.Models.EmployeeModel>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h1 class="mb-4">Employee List</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary mb-3">
+        Create New Employee
+    </a>
+</p>
+
+<table class="table table-bordered table-striped table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th class="px-3 py-2">
+                @Html.DisplayNameFor(model => model.EName)
+            </th>
+            <th class="px-3 py-2">
+                @Html.DisplayNameFor(model => model.Job)
+            </th>
+            <th class="px-3 py-2">
+                @Html.DisplayNameFor(model => model.Salary)
+            </th>
+            <th class="px-3 py-2 text-center">
+                Actions
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="px-3 py-2">
+                    @item.EName
+                </td>
+
+                <td class="px-3 py-2">
+                    @item.Job
+                </td>
+
+                <td class="px-3 py-2">
+                    ₹@item.Salary
+                </td>
+
+                <td class="px-3 py-2 text-center">
+                    <a asp-action="Edit"
+                       asp-route-id="@item.EmployeeModelId"
+                       class="btn btn-warning btn-sm">
+                        Edit
+                    </a>
+
+                    <a asp-action="Details"
+                       asp-route-id="@item.EmployeeModelId"
+                       class="btn btn-info btn-sm">
+                        Details
+                    </a>
+
+                    <a asp-action="Delete"
+                       asp-route-id="@item.EmployeeModelId"
+                       class="btn btn-danger btn-sm">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table> *@
+
+@model IEnumerable<MyMvcApp.Models.EmployeeModel>
+
+@{
+    ViewData["Title"] = "Employees";
+}
+
+<style>
+    .employee-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    .employee-table th,
+    .employee-table td {
+        padding: 12px 15px;
+        text-align: left;
+        border: none;
+    }
+
+    .employee-table th {
+        font-weight: bold;
+       
+    }
+
+    .action-links a {
+        text-decoration: none;
+        margin-right: 10px;
+    }
+
+    .action-links a:hover {
+        text-decoration: underline;
+    }
+</style>
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="employee-table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.EName)</th>
+            <th>@Html.DisplayNameFor(model => model.Job)</th>
+            <th>@Html.DisplayNameFor(model => model.Salary)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.EName</td>
+                <td>@item.Job</td>
+                <td>@item.Salary</td>
+                <td class="action-links">
+                    <a asp-action="Edit"
+                       asp-route-id="@item.EmployeeModelId">
+                        Edit
+                    </a>
+
+                    <a asp-action="Details"
+                       asp-route-id="@item.EmployeeModelId">
+                        Details
+                    </a>
+
+                    <a asp-action="Delete"
+                       asp-route-id="@item.EmployeeModelId">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+            
+        }
+    </tbody>
+</table>
