@@ -35,22 +35,27 @@ namespace LibraryManagementSystem.Menus
                 {
                     case 1:
                         Console.WriteLine("\nAdd Category Selected");
+                        // AddCategory();
                         break;
 
                     case 2:
                         Console.WriteLine("\nView All Categories Selected");
+                        // ViewAllCategories();
                         break;
 
                     case 3:
                         Console.WriteLine("\nUpdate Category Selected");
+                        // UpdateCategory();
                         break;
 
                     case 4:
                         Console.WriteLine("\nDelete Category Selected");
+                        // DeleteCategory();
                         break;
 
                     case 0:
                         Console.WriteLine("\nReturning To Main Menu...");
+                        // Back To Main Menu
                         break;
 
                     default:
