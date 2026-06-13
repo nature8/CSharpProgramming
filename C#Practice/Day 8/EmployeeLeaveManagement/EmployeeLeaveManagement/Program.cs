@@ -44,7 +44,7 @@ namespace EmployeeLeaveManagement
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            //Middleware
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

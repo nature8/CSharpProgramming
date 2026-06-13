@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BankLoanManagement.Tests/BankLoanManagement.Tests.csproj" />
+  <Project Path="BankLoanManagement.UI/BankLoanManagement.UI.csproj" />
+  <Project Path="BankLoanManagement/BankLoanManagement.API.csproj" />
+</Solution>

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Migrations\\20260613122138_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankLoanManagement\\Migrations\\20260613122138_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement\\models\\loanemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|solutionrelative:bankloanmanagement\\models\\loanemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement\\models\\loanapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|solutionrelative:bankloanmanagement\\models\\loanapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|solutionrelative:bankloanmanagement\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|solutionrelative:bankloanmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement\\models\\loantype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|solutionrelative:bankloanmanagement\\models\\loantype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|solutionrelative:bankloanmanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|solutionrelative:bankloanmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|solutionrelative:bankloanmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement\\bankloanmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0A72C99-756B-452B-8D4D-7BD8110BAC9E}|BankLoanManagement\\BankLoanManagement.API.csproj|solutionrelative:bankloanmanagement\\bankloanmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374A942F-BFBA-429B-A823-8BFC236A9754}|BankLoanManagement.UI\\BankLoanManagement.UI.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement.ui\\bankloanmanagement.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{374A942F-BFBA-429B-A823-8BFC236A9754}|BankLoanManagement.UI\\BankLoanManagement.UI.csproj|solutionrelative:bankloanmanagement.ui\\bankloanmanagement.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB93564-9060-43E8-BED3-CBDD8175CBFB}|BankLoanManagement.Tests\\BankLoanManagement.Tests.csproj|c:\\users\\m s p\\source\\repos\\bankloanmanagement\\bankloanmanagement.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB93564-9060-43E8-BED3-CBDD8175CBFB}|BankLoanManagement.Tests\\BankLoanManagement.Tests.csproj|solutionrelative:bankloanmanagement.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260613122138_m1.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Migrations\\20260613122138_m1.cs",
+              "RelativeDocumentMoniker": "BankLoanManagement\\Migrations\\20260613122138_m1.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Migrations\\20260613122138_m1.cs",
+              "RelativeToolTip": "BankLoanManagement\\Migrations\\20260613122138_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:21:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BankLoanManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Program.cs",
+              "RelativeToolTip": "BankLoanManagement\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:14:42.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "BankLoanManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\appsettings.json",
+              "RelativeToolTip": "BankLoanManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T12:13:54.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BankLoanManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BankLoanManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:06:27.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanEMI.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\LoanEMI.cs",
+              "RelativeDocumentMoniker": "BankLoanManagement\\Models\\LoanEMI.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\LoanEMI.cs",
+              "RelativeToolTip": "BankLoanManagement\\Models\\LoanEMI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:05:06.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "BankLoanManagement\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\Loan.cs",
+              "RelativeToolTip": "BankLoanManagement\\Models\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:04:26.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanApplication.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\LoanApplication.cs",
+              "RelativeDocumentMoniker": "BankLoanManagement\\Models\\LoanApplication.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\LoanApplication.cs",
+              "RelativeToolTip": "BankLoanManagement\\Models\\LoanApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:54:57.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanType.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\LoanType.cs",
+              "RelativeDocumentMoniker": "BankLoanManagement\\Models\\LoanType.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\LoanType.cs",
+              "RelativeToolTip": "BankLoanManagement\\Models\\LoanType.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:54:26.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BankLoanManagement\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\Models\\Customer.cs",
+              "RelativeToolTip": "BankLoanManagement\\Models\\Customer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:53:41.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankLoanManagement.API.csproj",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\BankLoanManagement.API.csproj",
+              "RelativeDocumentMoniker": "BankLoanManagement\\BankLoanManagement.API.csproj",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement\\BankLoanManagement.API.csproj",
+              "RelativeToolTip": "BankLoanManagement\\BankLoanManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T11:47:38.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankLoanManagement.UI",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement.UI\\BankLoanManagement.UI.csproj",
+              "RelativeDocumentMoniker": "BankLoanManagement.UI\\BankLoanManagement.UI.csproj",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement.UI\\BankLoanManagement.UI.csproj",
+              "RelativeToolTip": "BankLoanManagement.UI\\BankLoanManagement.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T11:46:14.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BankLoanManagement.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\M S P\\source\\repos\\BankLoanManagement\\BankLoanManagement.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "BankLoanManagement.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:45:48.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

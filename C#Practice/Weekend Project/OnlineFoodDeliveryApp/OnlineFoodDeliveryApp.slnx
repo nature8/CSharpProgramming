@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OnlineFoodDeliveryApp/OnlineFoodOrderApp.API.csproj" />
+  <Project Path="OnlineFoodOrder.Test/OnlineFoodOrder.Test.csproj" />
+  <Project Path="OnlinefoodOrder.UI/OnlinefoodOrder.UI.csproj" />
+</Solution>

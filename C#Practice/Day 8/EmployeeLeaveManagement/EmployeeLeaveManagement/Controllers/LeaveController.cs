@@ -10,86 +10,57 @@ public class LeaveController : ControllerBase
 {
     private readonly ILeaveService _service;
 
-    public LeaveController(
-        ILeaveService service)
+    public LeaveController(ILeaveService service)
     {
         _service = service;
     }
 
     [HttpGet]
-    public async Task<IActionResult>
-    GetAll()
+    public async Task<IActionResult>GetAll()
     {
-        return Ok(
-        await _service
-        .GetAllLeaves());
+        return Ok(await _service.GetAllLeaves());
     }
 
     [HttpGet("pending")]
     public async Task<IActionResult>
     GetPending()
     {
-        return Ok(
-        await _service
-        .GetPendingLeaves());
+        return Ok(await _service.GetPendingLeaves());
     }
 
     [HttpPost]
     public async Task<IActionResult>
-    ApplyLeave(
-    LeaveRequest leave)
+    ApplyLeave(LeaveRequest leave)
     {
         if (!ModelState.IsValid)
-            return BadRequest(
-            ModelState);
+            return BadRequest(ModelState);
 
-        await _service
-        .ApplyLeave(
-        leave);
+        await _service.ApplyLeave(leave);
 
-        return Ok(
-        "Leave Applied");
+        return Ok("Leave Applied");
     }
 
-    [HttpPut(
-    "approve/{id}")]
-    public async Task<IActionResult>
-    Approve(
-    int id)
+    [HttpPut("approve/{id}")]
+    public async Task<IActionResult>Approve(int id)
     {
-        await _service
-        .ApproveLeave(
-        id);
+        await _service.ApproveLeave(id);
 
-        return Ok(
-        "Leave Approved");
+        return Ok("Leave Approved");
     }
 
-    [HttpPut(
-    "reject/{id}")]
-    public async Task<IActionResult>
-    Reject(
-    int id)
+    [HttpPut("reject/{id}")]
+    public async Task<IActionResult>Reject(int id)
     {
-        await _service
-        .RejectLeave(
-        id);
+        await _service.RejectLeave(id);
 
-        return Ok(
-        "Leave Rejected");
+        return Ok("Leave Rejected");
     }
 
-    [HttpDelete(
-    "{id}")]
-    public async Task<IActionResult>
-    Delete(
-    int id)
+    [HttpDelete("{id}")]
+    public async Task<IActionResult>Delete(int id)
     {
-        await _service
-        .DeleteLeave(
-        id);
+        await _service.DeleteLeave(id);
 
-        return Ok(
-        "Deleted");
+        return Ok("Deleted");
     }
 }

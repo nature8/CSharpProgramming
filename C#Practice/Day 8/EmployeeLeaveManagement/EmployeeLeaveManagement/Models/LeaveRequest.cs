@@ -23,14 +23,10 @@ public class LeaveRequest
 
     public string Status { get; set; } = "Pending";
 
-    public DateTime CreatedDate
-    { get; set; }
-    = DateTime.UtcNow;
+    public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
 
     [JsonIgnore]
-    public Employee? Employee
-    { get; set; }
+    public Employee? Employee { get; set; }
 
-    public LeaveType? LeaveType
-    { get; set; }
+    public LeaveType? LeaveType { get; set; }
 }

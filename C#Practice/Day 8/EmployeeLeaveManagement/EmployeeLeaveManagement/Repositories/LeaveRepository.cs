@@ -4,8 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeLeaveManagement.Repositories;
 
-public class LeaveRepository
-: ILeaveRepository
+public class LeaveRepository : ILeaveRepository
 {
     private readonly
     AppDbContext _context;

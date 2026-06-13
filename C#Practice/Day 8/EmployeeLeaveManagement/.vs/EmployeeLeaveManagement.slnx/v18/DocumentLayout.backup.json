@@ -134,8 +134,7 @@
               "RelativeToolTip": "EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
               "ViewState": "AgIAAAEAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-11T10:30:47.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T10:30:47.59Z"
             },
             {
               "$type": "Document",
@@ -147,8 +146,7 @@
               "RelativeToolTip": "EmployeeLeaveManagement\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAmwCoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T11:59:04.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T11:59:04.312Z"
             },
             {
               "$type": "Document",
@@ -160,8 +158,7 @@
               "RelativeToolTip": "EmployeeLeaveManagement\\Models\\LeaveRequest.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAuwB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T11:31:18.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T11:31:18.259Z"
             },
             {
               "$type": "Document",
@@ -171,7 +168,7 @@
               "RelativeDocumentMoniker": "EmployeeLeaveManagement\\Program.cs",
               "ToolTip": "C:\\Users\\M S P\\source\\repos\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\Program.cs",
               "RelativeToolTip": "EmployeeLeaveManagement\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAmwGgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T11:34:00.129Z",
               "EditorCaption": ""

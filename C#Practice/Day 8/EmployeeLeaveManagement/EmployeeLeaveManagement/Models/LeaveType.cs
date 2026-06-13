@@ -10,7 +10,5 @@ public class LeaveType
     [StringLength(50)]
     public string LeaveName { get; set; } = string.Empty;
 
-    public ICollection<LeaveRequest>?
-        LeaveRequests
-    { get; set; }
+    public ICollection<LeaveRequest>? LeaveRequests { get; set; }
 }

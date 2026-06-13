@@ -169,4 +169,3 @@ C:\Users\M S P\source\repos\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\
 C:\Users\M S P\source\repos\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\net10.0\EmployeeLeaveManagement.pdb
 C:\Users\M S P\source\repos\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\net10.0\EmployeeLeaveManagement.genruntimeconfig.cache
 C:\Users\M S P\source\repos\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\net10.0\ref\EmployeeLeaveManagement.dll
-C:\Users\M S P\source\repos\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
