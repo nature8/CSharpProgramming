@@ -1,8 +1,15 @@
-﻿namespace OnlineFoodOrder.API.DTOs;
-
-public class OrderCreateDto
+﻿namespace OnlineFoodOrder.API.DTOs
 {
-    public int CustomerId { get; set; }
+    public class OrderCreateDto
+    {
+        public int CustomerId { get; set; }
 
-    public List<OrderItemCreateDto> Items { get; set; } = null!;
+        public List<OrderItemDto> Items { get; set; } = new List<OrderItemDto>();
+    }
+
+    public class OrderItemDto
+    {
+        public int FoodId { get; set; }
+        public int Quantity { get; set; }
+    }
 }

@@ -70,11 +70,30 @@ namespace OnlineFoodDeliveryApp
                 )
             );
 
+
+            // DI -> Customer
+            builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
+            builder.Services.AddScoped<ICustomerService, CustomerService>();
+
+            // DI -> Category
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
+
             // DI -> FoodItem 
             builder.Services.AddScoped<IFoodItemRepository, FoodItemRepository>();
             builder.Services.AddScoped<IFoodItemService, FoodItemService>();
 
-            
+            // DI -> Order
+            builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+            builder.Services.AddScoped<IOrderService, OrderService>();
+
+            // DI -> OrderDetail
+            builder.Services.AddScoped<IOrderDetailRepository, OrderDetailRepository>();
+            builder.Services.AddScoped<IOrderDetailService, OrderDetailService>();
+
+
+
+
             #endregion
 
             var app = builder.Build();

@@ -1,22 +1,24 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace OnlineFoodOrder.API.Models;
-
-public class OrderDetail
+namespace OnlineFoodOrder.API.Models
 {
-    public int OrderDetailId { get; set; }
 
-    public int OrderId { get; set; }
+    public class OrderDetail
+    {
+        public int OrderDetailId { get; set; }
 
-    public int FoodId { get; set; }
+        public int OrderId { get; set; }
 
-    public int Quantity { get; set; }
+        public int FoodId { get; set; }
 
-    public decimal UnitPrice { get; set; }
+        public int Quantity { get; set; }
 
-    [JsonIgnore]
-    public Order Order { get; set; } = null!;
+        public decimal UnitPrice { get; set; }
 
-    [JsonIgnore]
-    public FoodItem FoodItem { get; set; } = null!;
+        [JsonIgnore]
+        public Order? Order { get; set; }
+
+        [JsonIgnore]
+        public FoodItem? FoodItem { get; set; }
+    }
 }

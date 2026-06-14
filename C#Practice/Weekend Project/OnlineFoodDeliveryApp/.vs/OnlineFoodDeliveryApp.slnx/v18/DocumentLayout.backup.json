@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Migrations\\20260613210505_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineFoodDeliveryApp\\Migrations\\20260613210505_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|d:\\new volume2\\csharpprogramming\\c#practice\\weekend project\\onlinefooddeliveryapp\\onlinefooddeliveryapp\\controllers\\fooditemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|solutionrelative:onlinefooddeliveryapp\\controllers\\fooditemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|d:\\new volume2\\csharpprogramming\\c#practice\\weekend project\\onlinefooddeliveryapp\\onlinefooddeliveryapp\\services\\implementations\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|solutionrelative:onlinefooddeliveryapp\\services\\implementations\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|d:\\new volume2\\csharpprogramming\\c#practice\\weekend project\\onlinefooddeliveryapp\\onlinefooddeliveryapp\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +19,28 @@
       "RelativeMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|solutionrelative:onlinefooddeliveryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|d:\\new volume2\\csharpprogramming\\c#practice\\weekend project\\onlinefooddeliveryapp\\onlinefooddeliveryapp\\services\\interfaces\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|solutionrelative:onlinefooddeliveryapp\\services\\interfaces\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|d:\\new volume2\\csharpprogramming\\c#practice\\weekend project\\onlinefooddeliveryapp\\onlinefooddeliveryapp\\repositories\\interfaces\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|solutionrelative:onlinefooddeliveryapp\\repositories\\interfaces\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|d:\\new volume2\\csharpprogramming\\c#practice\\weekend project\\onlinefooddeliveryapp\\onlinefooddeliveryapp\\repositories\\implementations\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|solutionrelative:onlinefooddeliveryapp\\repositories\\implementations\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|d:\\new volume2\\csharpprogramming\\c#practice\\weekend project\\onlinefooddeliveryapp\\onlinefooddeliveryapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|solutionrelative:onlinefooddeliveryapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|d:\\new volume2\\csharpprogramming\\c#practice\\weekend project\\onlinefooddeliveryapp\\onlinefooddeliveryapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|solutionrelative:onlinefooddeliveryapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Migrations\\20260613210505_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineFoodDeliveryApp\\Migrations\\20260613210505_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FF113D3-7F77-45FA-BD3B-A8435A241F7A}|OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj|d:\\new volume2\\csharpprogramming\\c#practice\\weekend project\\onlinefooddeliveryapp\\onlinefooddeliveryapp\\dtos\\orderstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,6 +135,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FoodItemsController.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Controllers\\FoodItemsController.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Controllers\\FoodItemsController.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Controllers\\FoodItemsController.cs",
+              "RelativeToolTip": "OnlineFoodDeliveryApp\\Controllers\\FoodItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T21:30:04.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodItemService.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Services\\Implementations\\FoodItemService.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Services\\Implementations\\FoodItemService.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Services\\Implementations\\FoodItemService.cs",
+              "RelativeToolTip": "OnlineFoodDeliveryApp\\Services\\Implementations\\FoodItemService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T21:23:48.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFoodItemService.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Services\\Interfaces\\IFoodItemService.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Services\\Interfaces\\IFoodItemService.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Services\\Interfaces\\IFoodItemService.cs",
+              "RelativeToolTip": "OnlineFoodDeliveryApp\\Services\\Interfaces\\IFoodItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T21:23:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodItemRepository.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Repositories\\Implementations\\FoodItemRepository.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Repositories\\Implementations\\FoodItemRepository.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Repositories\\Implementations\\FoodItemRepository.cs",
+              "RelativeToolTip": "OnlineFoodDeliveryApp\\Repositories\\Implementations\\FoodItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T21:19:14.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFoodItemRepository.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Repositories\\Interfaces\\IFoodItemRepository.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Repositories\\Interfaces\\IFoodItemRepository.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Repositories\\Interfaces\\IFoodItemRepository.cs",
+              "RelativeToolTip": "OnlineFoodDeliveryApp\\Repositories\\Interfaces\\IFoodItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T21:18:40.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OnlineFoodDeliveryApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T21:08:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Program.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Program.cs",
+              "RelativeToolTip": "OnlineFoodDeliveryApp\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwFMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T20:50:19.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Models\\FoodItem.cs",
+              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Models\\FoodItem.cs",
+              "RelativeToolTip": "OnlineFoodDeliveryApp\\Models\\FoodItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T20:32:06.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20260613210505_InitialCreate.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Migrations\\20260613210505_InitialCreate.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Migrations\\20260613210505_InitialCreate.cs",
@@ -123,33 +251,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Program.cs",
-              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Program.cs",
-              "RelativeToolTip": "OnlineFoodDeliveryApp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T20:50:19.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Data\\AppDbContext.cs",
               "RelativeToolTip": "OnlineFoodDeliveryApp\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-13T20:49:16.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "FoodSearchDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\FoodSearchDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\FoodSearchDto.cs",
@@ -162,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "OrderStatusUpdateDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\OrderStatusUpdateDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\OrderStatusUpdateDto.cs",
@@ -175,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "OrderResponseDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\OrderResponseDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\OrderResponseDto.cs",
@@ -188,20 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FoodItem.cs",
-              "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Models\\FoodItem.cs",
-              "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Models\\FoodItem.cs",
-              "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Models\\FoodItem.cs",
-              "RelativeToolTip": "OnlineFoodDeliveryApp\\Models\\FoodItem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T20:32:06.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "OrderItemResponseDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\OrderItemResponseDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\OrderItemResponseDto.cs",
@@ -214,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "OrderCreateDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\OrderCreateDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\OrderCreateDto.cs",
@@ -227,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "OrderItemCreateDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\OrderItemCreateDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\OrderItemCreateDto.cs",
@@ -240,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "CustomerResponseDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\CustomerResponseDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\CustomerResponseDto.cs",
@@ -253,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "CustomerCreateDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\CustomerCreateDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\CustomerCreateDto.cs",
@@ -266,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "FoodItemResponseDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\FoodItemResponseDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\FoodItemResponseDto.cs",
@@ -279,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "FoodItemUpdateDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\FoodItemUpdateDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\FoodItemUpdateDto.cs",
@@ -292,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "FoodItemCreateDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\FoodItemCreateDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\FoodItemCreateDto.cs",
@@ -305,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "CategoryResponse.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\CategoryResponse.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\CategoryResponse.cs",
@@ -318,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "CategoryCreateDto.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\DTOs\\CategoryCreateDto.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\DTOs\\CategoryCreateDto.cs",
@@ -331,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Models\\OrderDetail.cs",
@@ -344,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Models\\Order.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Models\\Order.cs",
@@ -357,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Models\\Customer.cs",
@@ -370,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\Models\\Category.cs",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\Models\\Category.cs",
@@ -383,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\appsettings.json",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\appsettings.json",
@@ -396,20 +498,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "OnlineFoodOrderApp.API",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj",
               "RelativeDocumentMoniker": "OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj",
               "ToolTip": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj",
               "RelativeToolTip": "OnlineFoodDeliveryApp\\OnlineFoodOrderApp.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-13T20:18:35.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\New Volume2\\CSharpProgramming\\C#Practice\\Weekend Project\\OnlineFoodDeliveryApp\\OnlineFoodOrder.Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "OnlineFoodOrder.Test\\UnitTest1.cs",

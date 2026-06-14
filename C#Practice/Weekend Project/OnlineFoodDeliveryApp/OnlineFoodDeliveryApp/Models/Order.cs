@@ -1,23 +1,24 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace OnlineFoodOrder.API.Models;
-
-public class Order
+namespace OnlineFoodOrder.API.Models
 {
-    public int OrderId { get; set; }
 
-    public int CustomerId { get; set; }
+    public class Order
+    {
+        public int OrderId { get; set; }
 
-    public DateTime OrderDate { get; set; }
+        public int CustomerId { get; set; }
 
-    public decimal TotalAmount { get; set; }
+        public DateTime OrderDate { get; set; }
 
-    public string Status { get; set; } = string.Empty;
-    // Pending, Preparing, OutForDelivery, Delivered, Cancelled
+        public decimal TotalAmount { get; set; }
 
-    [JsonIgnore]
-    public Customer Customer { get; set; } = null!;
+        public string Status { get; set; } = string.Empty;
 
-    [JsonIgnore]
-    public List<OrderDetail> OrderDetails { get; set; } = new();
+        [JsonIgnore]
+        public Customer? Customer { get; set; }
+
+        [JsonIgnore]
+        public List<OrderDetail>? OrderDetails { get; set; }
+    }
 }
